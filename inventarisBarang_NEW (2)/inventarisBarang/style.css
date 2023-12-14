@@ -1,0 +1,25 @@
+.jumbotron {
+  padding: 6rem;
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+/* body {
+  background-image: url(img/usd.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 30px;
+  height: 30px;
+} */
+/* body {
+  background-image: url(img/usd.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+div {
+  width: 30px;
+  height: 30px;
+} */
